@@ -1,0 +1,11 @@
+body{
+	text-align: justify;	
+	
+}
+.md-form textarea{
+	resize: none;
+}
+a{
+	text-decoration: none!important;
+	color: white;
+}
