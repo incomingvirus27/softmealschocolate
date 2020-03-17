@@ -9,3 +9,6 @@ a{
 	text-decoration: none!important;
 	color: white;
 }
+.footer-page{
+	border-right: 3px solid #008000;
+}
